@@ -2,7 +2,7 @@ from rules import rules
 from inference_engine import forward_chaining
 
 print("=" * 45)
-print("RULE-BASED EXPERT SYSTEM")
+print("          RULE-BASED EXPERT SYSTEM")
 print("=" * 45)
 
 print("\nPlease answer the following questions")
